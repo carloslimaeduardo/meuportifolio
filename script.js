@@ -1,0 +1,1 @@
+// JavaScript vazio, pronto para futuras funcionalidades
